@@ -123,7 +123,7 @@ Save the file:
 Open the browser:
 
 ```
-http://http://13.49.49.254/
+http://http://56.228.35.50/
 ```
 
 The HTML page should be displayed successfully.
